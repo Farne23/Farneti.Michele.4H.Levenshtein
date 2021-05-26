@@ -17,4 +17,4 @@ Il programma, realizzato su **Console** accetta due string inserite in input dal
 
 
 
-##### Realizzato da [Michele Farneti](), 4 H #####
+##### Realizzato da [Michele Farneti](https://github.com/Farne23), 4 H #####
